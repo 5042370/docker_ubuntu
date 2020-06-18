@@ -1,1 +1,1 @@
-# docker_git
+# Default Ubuntu Git
