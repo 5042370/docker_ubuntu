@@ -22,7 +22,9 @@ RUN apt-get install -y ufw
 
 RUN apt-get install -y sudo
 
+RUN apt-get install -y net-tools
 
+RUN apt-get install -y systemd
 
 RUN apt-get install -y locales
 
